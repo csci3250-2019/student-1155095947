@@ -8,7 +8,7 @@ language:
 * assembly code
 * html
 
-|	On going Engine Course	|
+|	On going Engine Courses		|
 |--------------------------|
 |CENG2010|Digital Logic Design Lab|
 |CENG3410|Smart Hardware Design|
