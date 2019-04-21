@@ -8,8 +8,8 @@ language:
 * assembly code
 * html
 
-|On going Engine Courses|----|
-|--------------------------|-------|
+|On going Engine Courses|course name|
+|----|-----|
 |CENG2010|Digital Logic Design Lab|
 |CENG3410|Smart Hardware Design|
 |CSCI3100|Software Enginerring|
