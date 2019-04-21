@@ -20,7 +20,7 @@ I have finished:
 - [X] Milestone #2
 - [ ] Milestone #3
 
-![Alt text] (sc1.jpg)
-![Alt text] (sc2.jpg)
-![Alt text] (sc3.jpg)
+![Alt text] (sc1.JPG)
+![Alt text] (sc2.JPG)
+
 
