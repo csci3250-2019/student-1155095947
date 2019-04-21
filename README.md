@@ -20,8 +20,5 @@ I have finished:
 - [X] Milestone #2
 - [ ] Milestone #3
 
-![Alt text] (sc1.png)
-![Alt text] (sc2.png)
-
-
-
+![Alt text] (sc1.PNG)
+![Alt text] (sc2.PNG)
